@@ -8,3 +8,4 @@ Use the following steps
 * Configure Webhook
 * Add existing git repository to Jenkins
 * Add python file ith a testable function
+* Add unittest file to assert
