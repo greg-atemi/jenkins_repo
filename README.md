@@ -10,3 +10,4 @@ Use the following steps
 * Add python file ith a testable function
 * Add unittest file to assert
 * Add pytest file to assert
+* Test automated trigger
